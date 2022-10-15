@@ -1,0 +1,21 @@
+body {
+
+}
+
+h1 {
+
+}
+
+img {
+    border-radius: 15px;
+}
+
+img#cat  {
+    float: left;
+    margin: 50px;
+    /*padding: 1%;*/
+}
+
+.name {
+    font-style: italic;
+}
