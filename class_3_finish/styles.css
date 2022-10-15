@@ -1,0 +1,60 @@
+body {
+    padding: 50px;
+    background: #A68160;
+}
+
+.content {
+    border-radius: 15px;
+    padding-top: 50px;
+    color: #59321C;
+    background: #D9BD9C;
+    font-family: "Brush Script MT";
+}
+
+a {
+    color: #4C2B19FF;
+}
+
+p {
+    font-size: 20px;
+}
+
+header {
+    display: block;
+    width: 35%;
+    margin: auto;
+}
+
+header > ol {
+    font-size: larger;
+}
+
+main {
+    display: block;
+    padding: 100px;
+    width: 90%;
+}
+
+footer {
+    width: 90%;
+    text-align: center;
+    padding: 10px;
+}
+
+main > h1, main > h3 {
+    text-align: center;
+}
+
+ol {
+    padding-left: 300px;
+}
+
+img {
+    border-radius: 15px;
+    margin: 10px;
+    border: 5px solid #A68160;
+}
+
+.name {
+    font-style: italic;
+}
