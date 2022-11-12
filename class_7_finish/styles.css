@@ -34,14 +34,27 @@
     transition: 1s;
 }
 
-.eye:hover {
-    height: 40px;
+.eye1:hover {
+    height: 60px;
     top: 120px;
     transition: 1s;
+    transform: rotate(20deg);
+}
+
+.eye2:hover {
+    height: 60px;
+    top: 120px;
+    transition: 1s;
+    transform: rotate(-20deg);
+}
+
+.eye:focus {
+    background-color: darkred;
 }
 
 .eye:hover .whitecircles {
-    height: 15px;
+    height: 20px;
+    width: 20px;
     transition: 1s;
 }
 
